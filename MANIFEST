@@ -1,0 +1,6 @@
+README
+MANIFEST
+Makefile.PL
+LexAlias.pm
+LexAlias.xs
+t/Devel-LexAlias.t
