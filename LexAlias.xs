@@ -1,4 +1,4 @@
-/*	$Id: LexAlias.xs,v 1.7 2002/07/25 14:25:22 richardc Exp $	*/
+/*	$Id$	*/
 
 #include "EXTERN.h"
 #include "perl.h"
