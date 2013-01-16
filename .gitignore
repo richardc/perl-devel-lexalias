@@ -1,7 +1,9 @@
 blib
 LexAlias.c
+LexAlias.o
 LexAlias.bs
 Makefile
+Makefile.*
 pm_to_blib
 MYMETA.json
 MYMETA.yml
