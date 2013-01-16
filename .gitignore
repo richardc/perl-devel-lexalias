@@ -3,3 +3,5 @@ LexAlias.c
 LexAlias.bs
 Makefile
 pm_to_blib
+MYMETA.json
+MYMETA.yml
