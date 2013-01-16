@@ -33,6 +33,7 @@ _lexalias(SV* cv_ref, char *name, SV* new_rv)
                     SV* old_sv = (SV*) av_fetch(padv, i, 0);
                     av_store(padv, i, new_sv);
                     SvREFCNT_inc(new_sv);
+                    SvPADMY_on(new_sv);
                 }
             }
         }
